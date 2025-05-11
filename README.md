@@ -6,7 +6,7 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 ## 🚀 Live Demo
 
 [Click here to view the live app](#)  
-*(Replace `#` with your deployed URL once available)*
+https://shari123455.github.io/weather_app/
 
 ## 🛠️ Built With
 
