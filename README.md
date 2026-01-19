@@ -1,5 +1,5 @@
 # 🌤️ Weather App
-
+![image alt](https://github.com/shari123455/weather_app/blob/8d80c516ecdbb7e11009f483a9e8b1b9a7d8f696/Screenshot%202026-01-19%20154347.jpg)
 A simple and elegant **Weather App** that shows real-time weather information for any city using the **OpenWeatherMap API**.  
 Built with **HTML**, **CSS**, and **JavaScript**.
 
